@@ -1,0 +1,12 @@
+body {
+    color: red;
+    background-color: #add8e6;
+}
+
+.stButton>button {
+    color: green;
+    background: 'red'
+    padding: 2em;
+    height: 4em;
+    width: 15em;
+}
